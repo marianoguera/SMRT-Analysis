@@ -10,7 +10,7 @@ SMRT Analysis links:
 * Source repository: https://github.com/PacificBiosciences/SMRT-Analysis
 
 Other PacBio links:
-* Pacific Biosciences Company Website: http://www.pacificbiosciences.com
 * Customer Portal: http://www.pacbioportal.com
 * PacBio DevNet: http://www.pacbiodevnet.com
 * PacBio SampleNet: http://www.pacbiosamplenet.com
+* Pacific Biosciences Company Website: http://www.pacificbiosciences.com
