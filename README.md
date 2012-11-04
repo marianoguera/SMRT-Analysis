@@ -6,6 +6,7 @@ SMRT&reg; Analysis is PacBio&reg;'s bioinformatics software suite for analyzing 
 SMRT Analysis links:
 * SMRT Analysis Home: http://pacificbiosciences.github.com/SMRT-Analysis/
 * Wiki: https://github.com/PacificBiosciences/SMRT-Analysis/wiki
+* Bugs, suggestions, comments: https://github.com/PacificBiosciences/SMRT-Analysis/issues
 * Source repository: https://github.com/PacificBiosciences/SMRT-Analysis
 
 Other PacBio links:
