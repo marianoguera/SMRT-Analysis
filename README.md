@@ -1,7 +1,7 @@
 SMRT&reg; Analysis
 =============
 
-SMRT&reg; Analysis is PacBio&reg;'s bioinformatics software suite for analyzing single molecule, real-time DNA sequencing data.
+SMRT&reg; Analysis is PacBio's bioinformatics software suite for analyzing single molecule, real-time DNA sequencing data.
 
 SMRT Analysis links:
 * SMRT Analysis home on DevNet: http://pacificbiosciences.github.com/DevNet/
