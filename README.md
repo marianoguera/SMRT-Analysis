@@ -14,3 +14,5 @@ Other PacBio links:
 * PacBio DevNet: http://www.pacbiodevnet.com
 * PacBio SampleNet: http://www.pacbiosamplenet.com
 * Pacific Biosciences Company Website: http://www.pacificbiosciences.com
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/104b77caac44b82e52bce19ad64c9c0b "githalytics.com")](http://githalytics.com/github.com/PacificBiosciences)
