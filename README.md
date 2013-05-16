@@ -4,12 +4,17 @@ SMRT Analysis
 
 ### DESCRIPTION
 
-SMRT Analysis is a bioinformatics software suite for analyzing single molecule, real-time DNA sequencing data from Pacific Biosciences.
-
-This is the only link to download and view [the source](http://files.pacb.com/software/smrtanalysis/2.0.0/smrtanalysis-source.2.0.0.tgz)
+SMRT Analysis is a bioinformatics software suite for analyzing single molecule, real-time DNA sequencing data from Pacific Biosciences.  This repository contains a link to download and view the [SMRT Analysis source code.](http://files.pacb.com/software/smrtanalysis/2.0.0/smrtanalysis-source.2.0.0.tgz)  It is provided here for reference only and is currently not buildable.
 
 
-Visit the [PacBio Developer's Network Website](http://pacbiodevnet.com) for the most up-to-date links to downloads, documentation and more.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Terms of Use](http://pacbiodevnet.com/Terms_of_Use.html) | [Trademarks](http://pacb.com/terms-of-use/index.html#trademarks) | [Contact Us](mailto:devnet@pacificbiosciences.com)
+
+
+
+
+Visit the [PacBio Developer's Network Website](http://pacbiodevnet.com) for the most up-to-date links to downloads, documentation and more.
+
+
+[Terms of Use](http://pacbiodevnet.com/Terms_of_Use.html) | [Trademarks](http://pacb.com/terms-of-use/index.html#trademarks) | [Contact Us](mailto:devnet@pacificbiosciences.com)
 
 
 
