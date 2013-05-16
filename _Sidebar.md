@@ -1,5 +1,0 @@
-Installation
-Documentation
-Support
-Downloads
-Community
