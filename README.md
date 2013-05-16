@@ -10,6 +10,10 @@ The current version is 2.0.0, released on April 15, 2013.
 ### GETTING STARTED
 
 * [System Requirements](https://github.com/PacificBiosciences/SMRT-Analysis/wiki/SMRT-Analysis-Software-Installation-v2.0#wiki-SysReq)
+* [Installing SMRT Analysis v2.0](https://github.com/PacificBiosciences/SMRT-Analysis/wiki/SMRT-Analysis-Software-Installation-v2.0)
+
+### GETTING HELP
+
 * [SMRT Analysis Home on DevNet](http://pacificbiosciences.github.com/DevNet/)
 * [SMRT Analysis Wiki](https://github.com/PacificBiosciences/SMRT-Analysis/wiki)
 * [Issue Tracking](https://github.com/PacificBiosciences/SMRT-Analysis/issues)
