@@ -15,5 +15,3 @@ Visit the [PacBio Developer's Network Website](http://pacbiodevnet.com) for the 
 
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/104b77caac44b82e52bce19ad64c9c0b "githalytics.com")](http://githalytics.com/github.com/PacificBiosciences)
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/7366a65cbb1bb1a13ac5c5375ad33261 "githalytics.com")](http://githalytics.com/PacificBiosciences/SMRT-Analysis)
