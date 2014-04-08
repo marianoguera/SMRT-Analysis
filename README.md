@@ -26,12 +26,6 @@ Support for PacBio customers is available through the  Customer Portal.
 For customers of PacBio [Sequencing Providers](http://www.pacificbiosciences.com/support/sequencing_provider/).
 
 
-[__SMRT Analysis source__](http://files.pacb.com/software/smrtanalysis/2.0.0/smrtanalysis-source.2.0.0.tgz)
-
-The source code is provided here for reference only and is currently not buildable.
-
-
-
 
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/104b77caac44b82e52bce19ad64c9c0b "githalytics.com")](http://githalytics.com/github.com/PacificBiosciences)
