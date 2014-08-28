@@ -4,3 +4,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = https://github.com/PacificBiosciences/SMRT-Analysis.wiki.git
+[submodule "bifx"]
+	path = bifx
+	url = https://github.com/PacificBiosciences/Bioinformatics-Training.wiki.git
