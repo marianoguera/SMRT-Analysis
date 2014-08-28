@@ -1,11 +1,4 @@
-#Welcome to the SMRT&reg; Analysis wiki!#
-
-Top pages:
-* [[Official Documentation]]
-* [[Troubleshooting the SMRT Analysis Suite]]
-* [Bioinformatics Training](https://github.com/PacificBiosciences/Bioinformatics-Training/wiki)
-
-## Overview
+##Overview##
 
 SMRT<sup><small>&reg;</small></sup> Analysis is a powerful, open-source bioinformatics software suite available for analysis of DNA sequencing data from [Pacific Biosciences](http://www.pacificbiosciences.com)’ SMRT technology.
 
@@ -16,7 +9,7 @@ The browser-based SMRT Portal GUI offers push-button analysis, allowing the user
 SMRT Analysis can run in single, distributed, or mixed modes. An Amazon Web Service (AWS) cloud-based implementation is available.
 
 
-## Getting Support
+##Getting Support##
 
 [__PacBio Developer's Network Website__](http://pacbiodevnet.com)
 
