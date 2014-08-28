@@ -1,3 +1,10 @@
+#Welcome to the SMRT&reg; Analysis wiki!#
+
+Top pages:
+* [[Official Documentation]]
+* [[Troubleshooting the SMRT Analysis Suite]]
+* [Bioinformatics Training](https://github.com/PacificBiosciences/Bioinformatics-Training/wiki)
+
 ## Overview
 
 SMRT<sup><small>&reg;</small></sup> Analysis is a powerful, open-source bioinformatics software suite available for analysis of DNA sequencing data from [Pacific Biosciences](http://www.pacificbiosciences.com)’ SMRT technology.
