@@ -25,11 +25,3 @@ Support for PacBio customers is available through the  Customer Portal.
 
 For customers of PacBio [Sequencing Providers](http://www.pacificbiosciences.com/support/sequencing_provider/).
 
-
-
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/104b77caac44b82e52bce19ad64c9c0b "githalytics.com")](http://githalytics.com/github.com/PacificBiosciences)
-
-
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/28728759ba8fe51b8c1c0e6b39f6e339 "githalytics.com")](http://githalytics.com/PacificBiosciences/SMRT-Analysis)
